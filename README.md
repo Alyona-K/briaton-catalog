@@ -47,17 +47,17 @@ This project focuses on **dynamic functionality with JavaScript**. Responsive la
 - **Data Source:** `data/data.json` simulating a backend API
 - **Project Structure:**
 
-    /css       → compiled CSS from SCSS
-    /data      → JSON file with product data
-    /fonts     → project fonts
-    /images    → product images and sprite icons
-    /js        → main project scripts
-    /components → modular JS components for buttons, forms, and cards
-    /modules    → JS modules grouped by functionality 
-    /utils      → utility functions 
-    /vendor     → external libraries
-    /scss      → SCSS files
-    catalog.html → main HTML page
+  - /css        → CSS compilado desde SCSS
+  - /data       → Archivo JSON con datos de productos
+  - /fonts      → Tipografías del proyecto
+  - /images     → Imágenes de productos e íconos en sprites
+  - /js         → Scripts principales del proyecto
+  - /components → Componentes JS modulares para botones, formularios y tarjetas
+  - /modules    → Módulos JS agrupados por funcionalidad
+  - /utils      → Funciones utilitarias
+  - /vendor     → Librerías externas
+  - /scss       → Archivos SCSS
+  - catalog.html → Página HTML principal
 
 ---
 
@@ -83,7 +83,7 @@ This project focuses on **dynamic functionality with JavaScript**. Responsive la
 git clone https://github.com/Alyona-K/briaton-catalog
 ```
 
-2. Open catalog.html via Live Server.
+2. Open index.html via Live Server.
 
 3. The project uses local JSON data (data/data.json) to simulate server responses.
 
