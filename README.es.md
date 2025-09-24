@@ -47,17 +47,17 @@ Este proyecto se centra en la **funcionalidad dinámica con JavaScript**. El dis
 - **Fuente de Datos:** `data/data.json` simulando un API backend
 - **Estructura del Proyecto:**
 
-    /css        → CSS compilado desde SCSS
-    /data       → Archivo JSON con datos de productos
-    /fonts      → Tipografías del proyecto
-    /images     → Imágenes de productos e íconos en sprites
-    /js         → Scripts principales del proyecto
-    /components → Componentes JS modulares para botones, formularios y tarjetas
-    /modules    → Módulos JS agrupados por funcionalidad
-    /utils      → Funciones utilitarias
-    /vendor     → Librerías externas
-    /scss       → Archivos SCSS
-    catalog.html → Página HTML principal
+  - /css        → CSS compilado desde SCSS
+  - /data       → Archivo JSON con datos de productos
+  - /fonts      → Tipografías del proyecto
+  - /images     → Imágenes de productos e íconos en sprites
+  - /js         → Scripts principales del proyecto
+  - /components → Componentes JS modulares para botones, formularios y tarjetas
+  - /modules    → Módulos JS agrupados por funcionalidad
+  - /utils      → Funciones utilitarias
+  - /vendor     → Librerías externas
+  - /scss       → Archivos SCSS
+  - catalog.html → Página HTML principal
 
 ---
 
@@ -83,7 +83,7 @@ Este proyecto se centra en la **funcionalidad dinámica con JavaScript**. El dis
 git clone https://github.com/Alyona-K/briaton-catalog
 ```
 
-2. Abrir catalog.html usando Live Server.
+2. Abrir index.html usando Live Server.
 
 3. El proyecto usa datos JSON locales (data/data.json) para simular respuestas del servidor.
 
